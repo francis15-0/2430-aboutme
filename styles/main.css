@@ -26,6 +26,7 @@ h1, h2, h3 {
 }
 
 h1 {
+    
     font-size: 4em;
     font-weight: 900;
     text-shadow: 0.02em 0.04em #403D58;
@@ -33,8 +34,9 @@ h1 {
 }
 
 h2 {
-    border-bottom: 0.1em solid #66D7D1;
-    padding: 0.25em;
+    font-style: italic;
+    border-bottom: 0.1em solid #082220;
+    padding: 0.55em;
     margin: 1.6em 0;
 }
 
@@ -43,7 +45,7 @@ section p {
 }
 
 .project {
-    background-color: #403D58;
+    background-color: #215a29;
     color: #F2EFEA;
     padding: 0.5em 2em;
     border-radius: 0.5em;
@@ -51,7 +53,7 @@ section p {
 }
 
 .project h3 {
-    color: #DBD563;
+    color: #7a6ec6;
     margin-top: 1rem;
     margin-left: 2em;
     margin-right: 2em;
